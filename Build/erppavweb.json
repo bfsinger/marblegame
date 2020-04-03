@@ -1,0 +1,16 @@
+{
+"companyName": "The Open University",
+"productName": "Pavlovian Conditioning",
+"productVersion": "1.0",
+"dataUrl": "erppavweb.data.unityweb",
+"wasmCodeUrl": "erppavweb.wasm.code.unityweb",
+"wasmFrameworkUrl": "erppavweb.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0f6"
+}
